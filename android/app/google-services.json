@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364894055848",
+    "project_id": "nerulendingsoftware-7d3d1",
+    "storage_bucket": "nerulendingsoftware-7d3d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364894055848:android:bc3b183480de2c5cd2819d",
+        "android_client_info": {
+          "package_name": "com.example.nerulendings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPiZ-6ysR-Zjkc80IfxUtNO4mynsjlyGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
